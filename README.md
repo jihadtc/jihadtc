@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Jihad Tichti</h1>
+<h1 align="center">Hi 👋, I'm Jihad</h1>
 
 ###
 
-<h3 align="center">CyberSecurity student in FSR</h3>
+<h3 align="center">CyberSecurity student</h3>
 
 ###
 
