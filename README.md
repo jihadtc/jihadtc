@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">A CyberSecurity student in FSR</h3>
+<h3 align="center">CyberSecurity student in FSR</h3>
 
 ###
 
