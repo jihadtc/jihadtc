@@ -51,8 +51,9 @@
 </div>
 
 ###
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2232396" style='border:none;'></iframe>
+
 <div align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2232396" style='border:none;'></iframe>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jihadtc.jihadtc&"  />
 </div>
 
