@@ -19,4 +19,4 @@ I’m a Applied Computer Science Student at the Faculty of Sciences, Rabat, pass
 ---
 [![](https://visitcount.itsvg.in/api?id=jihadtc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- <meta name="google-site-verification" content="YyydQG3epXRe3I9qw04s6SKdGINGcg_XHKW6IcF_RgI" /> -->
+<meta name="google-site-verification" content="YyydQG3epXRe3I9qw04s6SKdGINGcg_XHKW6IcF_RgI" />
